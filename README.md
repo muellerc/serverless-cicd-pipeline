@@ -6,7 +6,7 @@ It's based on the [cookiecutter-aws-sam-python](https://github.com/aws-samples/c
 
 ![Screen Shot](pipeline-sample.png)
 
-## TO DEPLOY WITH AWS SAM AND
+## TO DEPLOY WITH AWS SAM AND AWS CLOUDFORMATION
 ```
 sam package --template-file template.yaml \
   --output-template-file packaged.yaml \
