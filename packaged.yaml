@@ -22,7 +22,7 @@ Metadata:
     Author: Christian Mueller
     SpdxLicenseId: Apache-2.0
     LicenseUrl: s3://cmr-aws-sam-demo/2944c68f51ac145bc62a72e099baf169
-    ReadmeUrl: s3://cmr-aws-sam-demo/5a19d440c922c0d526c1895e2bfed1ce
+    ReadmeUrl: s3://cmr-aws-sam-demo/0d78e4081cc498b32694133fc6e460f9
     Labels:
     - CodeCommit
     - CodeBuild

@@ -20,7 +20,7 @@ aws cloudformation deploy \
 ```
 
 ## Deploy from the AWS Serverless Application Repository
-* Hit "Deploy" from the [application](https://serverlessrepo.aws.amazon.com/#/applications/arn:aws:serverlessrepo:eu-central-1:689573718314:applications~serverless-cicd-pipeline) page
+* Hit "Deploy" from the [application](https://serverlessrepo.aws.amazon.com/#/applications/arn:aws:serverlessrepo:us-east-1:689573718314:applications~serverless-cicd-pipeline) page
 
 
 ## License
